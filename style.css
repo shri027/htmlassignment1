@@ -1,0 +1,231 @@
+html, body {
+  
+  position: relative;
+  width: 1366px;
+  height: 2170px;
+  
+  background: #FFF;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+  }
+
+.logo{
+position: absolute;
+width: 1366px;
+height: 292px;
+left: 0px;
+top: 0px;
+
+background: url(modern-corporate-building-7VGZ4H9.jpg);
+}
+
+
+
+.h1{
+position: absolute;
+width: 1094px;
+height: 120px;
+left: 136px;
+top: 324px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 112px;
+text-align: center;
+
+color: #000000;
+}
+
+
+
+
+.p{
+  position: absolute;
+  width: 1101px;
+  height: 143px;
+  left: 132px;
+  top: 464px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  
+  color: #000000;
+  }
+  
+  
+
+
+
+  
+.rectangle1 { 
+  position: absolute;
+  width: 482px;
+  height: 87px;
+  left: 442px;
+  top: 648px;
+  
+  background: #E27B7B;
+  
+  }
+
+  
+
+
+.knowmore{
+  position: absolute;
+width: 385px;
+height: 52px;
+left: 490px;
+top: 666px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 56px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.group1{
+position: absolute;
+width: 482px;
+height: 87px;
+left: 442px;
+top: 648px;
+}
+
+
+
+
+.rectangle2{
+position: absolute;
+width: 623px;
+height: 884px;
+left: 56px;
+top: 826px;
+
+background: #DAE2FF;
+}
+
+
+
+.rectangle3{
+position: absolute;
+width: 623px;
+height: 884px;
+left: 686px;
+top: 826px;
+
+background: #CACFFF;
+}
+
+
+
+ .area2{
+position: absolute;
+width: 538px;
+height: 261px;
+left: 729px;
+top: 874px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 112px;
+
+color: #000000;
+}
+
+
+.area1{
+position: absolute;
+width: 538px;
+height: 261px;
+left: 99px;
+top: 874px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 112px;
+
+color: #000000;
+}
+
+
+
+.lorem{
+position: absolute;
+width: 535px;
+height: 401px;
+left: 102px;
+top: 999px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+
+
+
+
+
+.lorem1{
+position: absolute;
+width: 535px;
+height: 401px;
+left: 729px;
+top: 999px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+
+
+
+
+
+.pic1{
+position: absolute;
+width: 550px;
+height: 366.71px;
+left: 102px;
+top: 1302px;
+
+background: url(golden-zodiac-astrological-clock-sunlight-and-shad-QLKR6PY.jpg);
+}
+
+
+
+
+.pic2{
+  position: absolute;
+  width: 550px;
+  height: 366.71px;
+  left: 729px;
+  top: 1302px;
+  
+  background: url(golden-zodiac-astrological-clock-sunlight-and-shad-QLKR6PY.jpg); 
+}
